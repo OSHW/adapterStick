@@ -144,7 +144,7 @@
 <wire x1="15.22" y1="19.99" x2="0" y2="19.99" width="0" layer="20"/>
 <wire x1="0" y1="19.99" x2="0" y2="0" width="0" layer="20"/>
 <text x="8.382" y="7.112" size="1.016" layer="25">VCC</text>
-<text x="3.81" y="17.78" size="0.6096" layer="25">opensourcehardware.it</text>
+<text x="2.794" y="17.526" size="0.7" layer="25">opensourcehardware.it</text>
 </plain>
 <libraries>
 <library name="pololu-allegro">
